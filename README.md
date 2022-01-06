@@ -1,12 +1,13 @@
 - 👋 Hi, I’m Julius, I am a Freshman at University of Illinois at Urbana-Champaign
 -         
-- 📚 I am studying Industrial Engineering (Undergrad) planning to pursue a Masters in Computer Science
+- 📚 I am studying Industrial Engineering (Undergrad) planning to pursue a Masters in Computer Science;
+-       (I am looking to transfer into CS if possible)
+-    
+- 👀 I’m interested in parallel programming and supercomputers
 - 
-- 👀 I’m interested in Java applications to supply chain optimization for small businesses as well as personal projects
+- 🌱 I’m currently programming in Java; I am watching lots of youtube on programming and I want to practice more server side programming 
 - 
-- 🌱 I’m currently learning Java; I watch lots of youtube videos on all topics so email me about anything you would like to talk about!!
-- 
-- 🥞 I’m looking to collaborate on small simple projects to boost my understanding on Java and computer science concepts
+- 🥞 I’m mainly trying to develop some sort of portfolio of work which I can use to provide ample evidence of my experience
 - 
 - 📫 How to reach me:
 - school: jwhit33@illinois.edu

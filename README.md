@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Julius, I am a Freshman at University of Illinois at Urbana-Champaign
 -         
 - 📚 I am studying Industrial Engineering (Undergrad) planning to pursue a Masters in Computer Science;
--       I am looking to transfer into CS if possible
 -    
 - 👀 I’m interested in parallel programming and supercomputers
 - 

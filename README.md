@@ -1,13 +1,26 @@
-- 👋 Hi, I’m Julius, I am a Freshman at University of Illinois at Urbana-Champaign
+- 👋 Hi, I’m Julius White V, I am a Freshman at University of Illinois at Urbana-Champaign
 -         
-- 📚 I am studying Industrial Engineering (Undergrad) planning to pursue a Masters in Computer Science;
+- 📚 I am planning to transfer to Computer Science at UIUC (currently studying Civil Engineering (Undergrad))
+- 
+- Planning to pursue a Masters in Computer Science;
 -    
 - 👀 I’m interested in parallel programming and supercomputers
 - 
 - 🌱 I’m currently programming in Java; I am watching lots of youtube on programming and I want to practice more server side programming 
 - 
-- 🥞 I’m mainly trying to develop some sort of portfolio of work which I can use to provide ample evidence of my experience
-- 
+- 🥞 Plan to improve my programming abilities:
+- DONE Read Book: Headfirst Java (650 pgs)
+- DONE Watch CSDojo videos on Data Structures and Algorithms
+- TO DO Mastery of Data Structures and Algorithms course on Udemy
+- TO DO One Complex project using Java/Data Structures/Algorithms 
+- TO DO Learn server side programming (php, MySQL)
+- TO DO Make website with JavaScript, CSS, HTML
+-
+-🥩
+-
+-
+-
+-
 - 📫 How to reach me:
 - school: jwhit33@illinois.edu
 - personal: awsmguytoo@gmail.com

@@ -16,7 +16,7 @@
 - TO DO Learn server side programming (php, MySQL)
 - TO DO Make website with JavaScript, CSS, HTML
 -
--🥩
+- 
 -
 -
 -

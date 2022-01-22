@@ -11,13 +11,8 @@
 - 🥞 Plan to improve my programming abilities:
 - DONE Read Book: Headfirst Java (650 pgs)
 - DONE Watch CSDojo videos on Data Structures and Algorithms
-- TO DO Mastery of Data Structures and Algorithms course on Udemy
-- TO DO One Complex project using Java/Data Structures/Algorithms 
-- TO DO Learn server side programming (php, MySQL)
-- TO DO Make website with JavaScript, CSS, HTML
--
-- 
--
+- TO DO Read CLRS Algorithms book  
+- TO DO Practice LeetCode
 -
 -
 -

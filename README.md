@@ -4,14 +4,16 @@
 - 
 - Planning to pursue a Masters in Computer Science;
 -    
-- 👀 I’m interested in parallel programming and supercomputers
+- 👀 I’m interested in cybersecurity
 - 
-- 🌱 I’m currently programming in Java; I am watching lots of youtube on programming and I want to practice more server side programming 
+- 🌱 I’m currently programming in C; I am looking to develop a few simple programs to understand C's file management
 - 
 - 🥞 Plan to improve my programming abilities:
 - DONE Read Book: Headfirst Java (650 pgs)
 - DONE Watch CSDojo videos on Data Structures and Algorithms
-- TO DO Read CLRS Algorithms book  
+- DONE Take CS124
+- TO DO Finish Headfirst C
+- TO DO Develop a few cybersecurity focus programs in C 
 - TO DO Practice LeetCode
 -
 -

@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Julius White V, I am a Sophomore at University of Illinois at Urbana-Champaign
+- 👋 Hi, I’m Julius White V, I am a Junior at University of Illinois at Urbana-Champaign
 -         
-- 📚 I am planning to transfer to Computer Science at UIUC
+- 📚 I am studying Computer Science and Economics at UIUC
 - 
 - Planning to pursue a Masters in Computer Science;
 -    

@@ -4,9 +4,8 @@
 - 
 - Planning to pursue a Masters in Computer Science;
 -    
-- 👀 I’m interested in cybersecurity
+- 👀 I’m interested in machine learning and cs theory 
 - 
-- 🌱 I’m currently programming in C; I am looking to develop a few simple programs to understand C's file management
 - 
 - 🥞 Plan to improve my programming abilities:
 - DONE Read Book: Headfirst Java (650 pgs)
@@ -14,7 +13,7 @@
 - DONE Take CS124
 - TO DO Finish Headfirst C
 - TO DO Develop a few cybersecurity focus programs in C 
-- TO DO Practice LeetCode
+- TO DO Ask about different projects and industries within Software Engineering
 -
 -
 -

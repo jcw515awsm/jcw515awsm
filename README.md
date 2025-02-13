@@ -1,22 +1,12 @@
-- 👋 Hi, I’m Julius White V, I am a Junior at University of Illinois at Urbana-Champaign
+- 👋 Hi, I’m Julius White V, I am a Senior at University of Illinois at Urbana-Champaign
 -         
 - 📚 I am studying Computer Science and Economics at UIUC
 - 
-- Planning to pursue a Masters in Computer Science;
 -    
-- 👀 I’m interested in machine learning and cs theory 
+- 👀 I’m interested in entrepeneurship and system design 
+-
+- Planning to build a few companies soon...
 - 
-- 
-- 🥞 Plan to improve my programming abilities:
-- DONE Read Book: Headfirst Java (650 pgs)
-- DONE Watch CSDojo videos on Data Structures and Algorithms
-- DONE Take CS124
-- TO DO Finish Headfirst C
-- TO DO Develop a few cybersecurity focus programs in C 
-- TO DO Ask about different projects and industries within Software Engineering
--
--
--
 - 📫 How to reach me:
-- school: jwhit33@illinois.edu
-- personal: awsmguytoo@gmail.com
+- Checkout my website: pending
+- 
